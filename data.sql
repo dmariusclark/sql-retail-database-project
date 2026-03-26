@@ -1,3 +1,6 @@
+-- data.sql
+-- Defines all tables and relationships for the retail database
+
 insert into customers (first_name, last_name, email_address)
 values
 ('Trey', 'Jones', 'treyjones1@gmail.com'),
